@@ -1,0 +1,84 @@
+1. programming language that is used to build web application and website.
+2. PHP stands for HYPERTEXT PREPROCESSOR.
+3. PHP is a serve-side scripting language.
+4. PHP is faster than other scripting language such as ASP and JSP.
+
+5. script language
+
+   - A programming language that is interpreted at runtime rather than complied.
+   - Serve-side Scripting language
+   - Client-side Scripting language
+
+6. Server Side Script
+
+     - Code is execute on server side
+     - computer -> REQUEST -> server(code execute here)
+     - computer <- RESPONSE <- server(code execute here)
+
+7. FEATURES
+
+      1. OPEN SOURCE: PHP is free to download and use.
+      2. PLATFORM INDEPENDENT: PHP code can run on and platform.
+      3. FASTER: PHP script are usually faster than other scripting language.
+      4. PHP automatically convert a variable's data type.
+
+8. Install PHP
+
+      1. Xammpp Download
+      2. install xampp
+      3. start php in xampp
+      4. make a floder and file for php
+      5. test php is install or not
+
+9. Hello Worlf in php   
+      1. Make file with the .php extension.
+      2. Make php tags.
+      3. Write code.
+      4. Display output on screen.
+
+10. Echo In PHP
+      1. What is Echo?
+      2. Use of Echo?
+      3. Case Insensitive.
+      4. Multiple Echo in a single line.
+      5. Line break in Echo.
+      6. Interview Question.
+
+11. Variable in PHP
+
+      1. What are variable?
+            - The variable are storage location.
+                        or
+            - The variable are an abstract storage location?
+            - The variable can store any kinds of data.
+            - Example: Name , Number etc.
+      
+      2. Use of Variable?
+            - The same data is used in Multiple times.
+            - Display the name in Multiple places on the website page.
+            - Use the same Number Multiple time.
+      3. Example of variable?
+      4. Why php variable are smarter than some other language?
+      5. Interview Question
+
+12. variable Rules in PHP
+      1. A Variable start with the $ sign.
+      2. A Variable name cannot start with a number.
+      3. A variable name must start with a letter or the underscore(_) character.
+      4. A variable name cannot start a special character.
+      5. A variable name can onlt contain alpha-numeric character and underscore(_).
+      6. $name , $Name and $NAME are three different variable.
+      7. variable syntax.
+            . $name = "PHP";
+
+13. PHP with HTML 
+      1. What do we need to php and html?
+      2. write html inside php
+      3. write php inside html tags
+      4. Add some style with php
+
+14. Display Errors
+      1. Why do we need to display error.
+      2. Check the php.ini file location.
+      3. Change display error property.
+      4. Test Error.
