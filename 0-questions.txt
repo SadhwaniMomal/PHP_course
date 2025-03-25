@@ -82,3 +82,26 @@
       2. Check the php.ini file location.
       3. Change display error property.
       4. Test Error.
+
+15. Constant in php
+      1. What are constant?
+      2. constant vs variable.
+      3. two ways to define constant
+      4. Example for constants
+      5. Interview Questions For constants.
+
+16. Data Type in php
+      1. What is data type?
+      2. Total Data types.
+            1. String
+            2. Integer
+            3. float
+            4. Boolean
+            5. Null
+            6. Array
+            7. Object(class)
+            8. Recourse
+      3. Name of data type in php.
+      4. Example of all data types.
+      5. Interview Question
+
