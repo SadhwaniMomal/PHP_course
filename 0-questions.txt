@@ -105,3 +105,30 @@
       4. Example of all data types.
       5. Interview Question
 
+17. Comments
+      1.What is a comment in the code?
+      2.Types of comments?
+      3.Example of comments?
+      4.Interview Question
+
+18. How php works?
+      1. why this topic is important?
+      2. understand the flow of php code?
+      3. why we can not see the php code in the browser?
+      4. Interview Questions?
+
+19. Operator in php
+      1. What are Operators?
+      2. Example of Operators?
+      3. Type of Operators.
+            1. Arithmetic Operators
+            2. Assignment Operators
+            3. Comparison Operators
+            4. Increment/Decrement Operators
+            5. Logical Operators
+            6. String Operators
+            7. Array Operators Conditional
+            8. Assignment Operators
+      4. Interview Questions
+
+20. 

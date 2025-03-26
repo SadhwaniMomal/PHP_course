@@ -48,10 +48,12 @@
    echo "<hr/>";
 // 7. Object(class)
    echo "<h4> object (class)  </h4>";
-
   //  $user = new className();
    echo "<hr/>";
 // 8. Recourse
    echo "<h4> Resource </h4>";
+
+  //  $connection = ftps_connect("127.0.0.1") or die ("local host not found);
+
    echo "<hr/>";
 ?>
